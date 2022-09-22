@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Chat Scroll Speed
+Let's users customize how fast chat scrolls
